@@ -42,3 +42,9 @@ next-env.d.ts
 
 # Local editor history
 .history/
+
+# Development backup files
+*.step*.backup
+*.backup.tsx
+
+*.step*-backup
